@@ -26,7 +26,7 @@
 <p align="left">
 - 𝗠𝗢𝗦𝗧 𝗔𝗖𝗧𝗜𝗩𝗘 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 @𝗩𝗜𝗦_𝗛𝗡𝗨_𝗕𝗢𝗧 🔥 
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Kiprotich+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://t.me/figis_pin)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Vishnu+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://t.me/vis_hnu_bot)
 
   ☎️ **Contect Here**
 
@@ -46,7 +46,7 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=Abcdviahnibshsjsakakab&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233336F7&multiline=false&width=480&lines=Welcome+To+kiprotich's+GitHub+profile%F0%9F%98%8A;Click+Here%F0%9F%91%87)](https://t.me/kippikbot)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233336F7&multiline=false&width=480&lines=Welcome+To+VISHNU's+GitHub+profile%F0%9F%98%8A;Click+Here%F0%9F%91%87)](https://t.me/VIS_HNU_BOT)
 <details>
 
 <summary> 
