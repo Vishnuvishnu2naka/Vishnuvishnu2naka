@@ -43,19 +43,4 @@
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=Abcdviahnibshsjsakakab&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
-<p align="middle">
-
-<img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="150" height="150"><br>
-
-<img src="https://badgen.net/badge/Nᴀᴍᴇ/Mʀᴋ-YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
-
-<img src="https://badgen.net/badge/Sᴋɪʟʟs/😞/purple?icon=terminal&labelColor=red"></a>
-
-<a href="https://graph.org/file/2b726e16636383588d323.jpg"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Lɪɴᴋ-blue.svg?logo=telegram"></a>
-
-<a href="https://github.com/vishnuvishnu2naka"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Yᴏᴜᴛᴜʙᴇ-Cʜᴀɴɴᴇʟ-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-
-<p align="left">
-
-</p>         
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Kiprotich+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://t.me/figis_pin)
