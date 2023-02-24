@@ -25,8 +25,10 @@
 • 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 PLUS TWO
 <p align="left">
 - 𝗠𝗢𝗦𝗧 𝗔𝗖𝗧𝗜𝗩𝗘 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 @𝗩𝗜𝗦_𝗛𝗡𝗨_𝗕𝗢𝗧 🔥 
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Kiprotich+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://t.me/figis_pin)
-☎️ **Contect Here**
+
+  ☎️ **Contect Here**
 
 <a href="https://telegram.dog/vis_hnu_"><img alt="telegram" src="https://img.shields.io/badge/Telegram-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
   
