@@ -45,3 +45,34 @@
 </p>
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233336F7&multiline=false&width=480&lines=Welcome+To+kiprotich's+GitHub+profile%F0%9F%98%8A;Click+Here%F0%9F%91%87)](https://t.me/kippikbot)
+<details>
+
+<summary> 
+
+ # **KIPROTICH**<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **DEPRO**</summary>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%2347F791&size=30&center=true&vCenter=true&lines=Let's+begin+😀%3A)](https://t.me/kippikbot)
+
+  
+
+<img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg">
+
+  
+
+ - 🐾I am currently working on a <i>secret</i> project👨‍💻
+
+  
+
+ - <u><i>This ain't all I have for you,feel free to contact me😉</i></u>
+
+ - **🌱TG DEPRO** 👨‍💼
+
+ - **🌿upcoming perfectionist** 👨‍💻
+
+ - **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖** 
+
+ - **🐍I mostly focus on [Python](https://python.org) and [Nim](https://nim-lang.org)** 🔬
+
+ - **🐲My Everyday usage is based on: `.py` `.nim` `.sh`** 📜
+
+</details>
