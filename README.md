@@ -43,4 +43,3 @@
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=Abcdviahnibshsjsakakab&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&color=%23F78531&lines=%F0%9F%91%A8Kiprotich+Langat;%F0%9F%93%91Software+Developer;%F0%9F%93%A1Networking+Wizard;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBComputer+scientist;%F0%9F%98%8ANice+to+meet+you...)](https://t.me/figis_pin)
